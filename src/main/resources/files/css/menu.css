@@ -1,0 +1,43 @@
+.address .scroll-pane {
+    -fx-background-color: transparent;
+}
+
+.address .scroll-bar .increment-button {
+    visibility: hidden;
+}
+
+.address .scroll-bar .decrement-button {
+    visibility: hidden;
+}
+
+.address .scroll-bar:vertical {
+    -fx-background-color: rgba(104, 104, 104, .3);
+}
+
+.address .scroll-bar:vertical .track-background {
+    visibility: hidden;
+}
+
+.address .scroll-bar:vertical .track {
+    -fx-background-color: transparent;
+}
+
+.address .hide-thumb .scroll-bar:vertical .thumb {
+    -fx-background-color: rgba(104, 104, 104, .3);
+    visibility: hidden;
+}
+
+.address .scroll-bar .increment-arrow,
+.address .scroll-bar .decrement-arrow {
+    -fx-shape: " ";
+    -fx-padding: 1;
+}
+
+.tree-cell {
+    -fx-background-color: rgba(104, 104, 104, 0);
+    -fx-text-fill: white;
+}
+
+.tree-view {
+    -fx-background-color: transparent;
+}

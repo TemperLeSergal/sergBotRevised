@@ -1,0 +1,7 @@
+Planned Implementations:
+    -Add discord widget support
+        -Server admin usage only
+    -Add message and audio logger/flagger
+        -Server admin usage only
+    -Add e621 support
+    -Add user login

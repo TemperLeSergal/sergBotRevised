@@ -1,0 +1,11 @@
+.splash {
+    --fx-background-image: url("../../../modules/SceneViews/images/splashtest.png");
+}
+.jfx-toggle-button {
+    -jfx-toggle-color: #ba19d1;
+    -jfx-untoggle-color: #0c7086;
+    -jfx-toggle-line-color:  linear-gradient(from 0% 0% to 100% 100%, rgb(0,102,102) 0%, rgb(204,0,204) 100%);
+    -jfx-untoggle-line-color:  linear-gradient(from 0% 0% to 100% 100%, rgb(0,102,102) 0%, rgb(204,0,204) 100%);
+    -jfx-size: 10.0;
+    -jfx-disable-visual-focus: false;
+}

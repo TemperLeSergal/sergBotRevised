@@ -1,0 +1,8 @@
+Change log for version: 1.0.2 Alpha:
+    -The third release
+    -Added sign up page
+Change log for version: 1.0.1 Alpha:
+    -The second release
+    -Added Change Log Support
+Change log for version: 1.0.0 Alpha:
+    -The initial release

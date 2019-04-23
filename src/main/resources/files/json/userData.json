@@ -1,0 +1,50 @@
+{
+  "e621Settings": {
+    "score": 25,
+    "imageSaveLocation": "C:\\Users\\Admin\\Pictures\\Camera Roll",
+    "blacklist": [
+      "gore",
+      "death",
+      "young",
+      "torture",
+      "ball_busting",
+      "female",
+      "fat",
+      "scat",
+      "fart",
+      "redrusker",
+      "horse",
+      "equine",
+      "donkey",
+      "zebra",
+      "mlp",
+      "breasts",
+      "cub"
+    ]
+  },
+  "profileSettings": {
+    "password": "KBHSkbhs!!8199",
+    "rememberMe": true,
+    "FlistCharacterName": "",
+    "username": "zeex14"
+  },
+  "discordSettings": {
+    "server name": {
+      "xp": 0,
+      "rank": 0,
+      "discordBlacklist": [],
+      "infractions": {
+        "serverName2": {
+          "infractionID": {},
+          "infractionID2": {},
+          "serverID": 1222135
+        },
+        "serverName": {
+          "infractionID": {},
+          "serverID": 1222134
+        }
+      },
+      "useDefE621Blacklist": true
+    }
+  }
+}

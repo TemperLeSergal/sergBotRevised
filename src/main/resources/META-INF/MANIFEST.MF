@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Class-Path: jackson-annotations-2.9.0.jar lava-common-1.1.0.jar jfoeni
+ x-9.0.4.jar commons-io-2.6.jar jda-utilities-doc-2.1.5.jar jda-utilit
+ ies-menu-2.1.5.jar gson-2.6.2.jar apache-tomcat-util.jar commons-code
+ c-1.10.jar activation.jar fxsampler-1.0.10.jar hamcrest-core-1.1.jar 
+ httpasyncclient-4.0.2.jar json-simple-1.1.1.jar engine-webkit.jar jso
+ n-simple-1.1.1.jar unirest-java-1.4.9.jar jda-utilities-commons-2.1.5
+ .jar jackson-databind-2.9.8.jar jsoup-1.11.3.jar json-20160810.jar ba
+ se64-2.3.9.jar lavaplayer-natives-1.3.13.jar jda-utilities-command-2.
+ 1.5.jar junit-4.10.jar commons-logging-1.2.jar kotlin-stdlib.jar kotl
+ in-reflect.jar kotlin-test.jar kotlin-stdlib-jdk7.jar kotlin-stdlib-j
+ dk8.jar servlet-api.jar mysql-connector-java-8.0.11.jar httpclient-4.
+ 5.6.jar jda-utilities-examples-2.1.5.jar JDA-3.8.3_462-withDependenci
+ es.jar jsoup-1.11.3.jar httpcore-4.4.10.jar okhttp-3.9.1.jar lavaplay
+ er-1.3.16.jar okio-1.13.0.jar jackson-core-2.9.8.jar controlsfx-sampl
+ es-9.0.0.jar controlsfx-9.0.0.jar jsr305-3.0.2.jar slf4j-api-1.7.25.j
+ ar
+Main-Class: com.cottonlesergal.bot.Main
+
